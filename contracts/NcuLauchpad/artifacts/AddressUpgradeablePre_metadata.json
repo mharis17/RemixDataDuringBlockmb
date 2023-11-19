@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/NcuLauchpad/PresaleLaunchpadToken.sol": "AddressUpgradeablePre"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/NcuLauchpad/PresaleLaunchpadToken.sol": {
+			"keccak256": "0xcbd9fff69bb7b8e982fdca53fba11e4043e4ba4c70c9669c5996a885f06d1a79",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://28d5a131862cc86bef6e87c248c494808bcc411d47f03fd881b8273bec9337cd",
+				"dweb:/ipfs/QmRL9qU39esm1YMectG7DzZbNGvKVpG2akWWjQckzzhmzd"
+			]
+		}
+	},
+	"version": 1
+}

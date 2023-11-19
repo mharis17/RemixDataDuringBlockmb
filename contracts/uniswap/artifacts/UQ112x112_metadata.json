@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/uniswap/v2Fctory.sol": "UQ112x112"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/uniswap/v2Fctory.sol": {
+			"keccak256": "0x8ed2f86ed09a48be42441f28528f867762970f3f812fa5e5187545eedefe1a8e",
+			"urls": [
+				"bzz-raw://8281d1cefa508a9fe0820d680e63a4cb726115cc73a90345e93651f36e5e0b22",
+				"dweb:/ipfs/QmX548MDW3h5seZRbCCE7cZU8eirBjRMNzTZLWeif6ReZf"
+			]
+		}
+	},
+	"version": 1
+}

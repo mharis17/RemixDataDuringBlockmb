@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/uniswap/artifacts/New2.sol": "SafeMath"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/uniswap/artifacts/New2.sol": {
+			"keccak256": "0x14dbbe39ebe66e8be430b0be44cb9b04f2e6d88b185ec1f73499dd70461e2ca5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7bf12f93be4c657588550b6a138e1656e5ec932ab5ce69ee33e7808e3333d683",
+				"dweb:/ipfs/QmZ7CF7u2bnknPLxjmJfBzHGwucDgEZBwK3GorhYsvvkSW"
+			]
+		}
+	},
+	"version": 1
+}

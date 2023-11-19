@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/uniswap/Dalmation.sol": "Context"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/uniswap/Dalmation.sol": {
+			"keccak256": "0x444046d3b1ef95c42fcaec4371e560a52c93b6c901607dd912e220bb30deba3f",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://f641610647cfe57f9f18a18a8e9a47c7336af8700d22c92fe691bf299f607614",
+				"dweb:/ipfs/QmfUo29scenaSQ7Jf2zg63rqoa6LBBQZzk2cRTjoC9usCB"
+			]
+		}
+	},
+	"version": 1
+}

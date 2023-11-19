@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/deployedOmar/omerFinalToken.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/deployedOmar/omerFinalToken.sol": {
+			"keccak256": "0xfacf0172064621104613e0f0d42ebf8347246779576d34c075a0f016eee6c466",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://aa25f27578bb2b712984f32f1668fa3f814339a04bdccec7da72f9f755d0adb0",
+				"dweb:/ipfs/QmdpNmdBz3kVC4sgdGfVv7TGuTgKwQgumuNkhK8eT4GiBs"
+			]
+		}
+	},
+	"version": 1
+}
